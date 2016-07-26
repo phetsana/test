@@ -69,7 +69,7 @@ Liste des dernières suggestions (pagination à 20 résultats, classement du plu
 
 ```json
 {
-        "page" : 1
+        "page" : 1,
         "suggestions" : [
                 {
                         "_id" : 27,
