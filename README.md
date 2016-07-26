@@ -70,7 +70,7 @@ Liste des dernières suggestions (pagination à 20 résultats, classement du plu
 ```json
 {
         "page" : 1
-        suggestions : [
+        "suggestions" : [
                 {
                         "_id" : 27,
                         "artist" : "NEEDTOBREATHE",
@@ -78,7 +78,7 @@ Liste des dernières suggestions (pagination à 20 résultats, classement du plu
                         "genre" : "pop",
                         "album_art" : "https://res.cloudinary.com/don2kwaju/image/upload/ar_1:1,c_fill,g_auto/w_auto:100:250/dpr_auto/f_auto,q_auto/v1460118433/covers/cqjlc0ku0o5yizn4hwgn.jpg",
                         "suggested_at" : 1436486400,
-                        "suggestor" : Arild Lekanger
+                        "suggestor" : "Arild Lekanger"
                 }
         ],
 }
