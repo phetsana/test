@@ -1,8 +1,9 @@
 # API
 
-###### POST /session
+## POST /session
 
-**Description** : Retourne les informations d'une session authentifié (profil utilisateur)
+###### Description 
+Retourne les informations d'une session authentifié (profil utilisateur)
 
 **Code retour** : 200 si login/pass OK
 
