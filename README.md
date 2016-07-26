@@ -9,8 +9,8 @@ Retourne les informations d'une session authentifié (profil utilisateur)
 200 si login/pass OK
 
 ###### Paramètres : 
-- *login* : Identifiant unique utilisateur
-- *pass*  : Pass crypté 
+- **login** : Identifiant unique utilisateur
+- **pass**  : Pass crypté 
 
 ```json
 {
