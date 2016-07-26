@@ -1,8 +1,12 @@
 # API
 
-###### GET /session
+###### POST /session
 
-**Description** : Retourne les informations d'une session (profil utilisateur)
+**Description** : Retourne les informations d'une session authentifié (profil utilisateur)
+**Code retour** : 200 si login/pass OK
+**Paramètres** : 
+- *login* : Identifiant unique utilisateur
+- *pass*  : Pass crypté 
 
 ```json
 {
