@@ -55,7 +55,7 @@ Récupération et modification des infos profil
 }
 ```
 
-# Music
+# MUSIC
 
 ## GET /suggestions/{page}
 
@@ -138,7 +138,7 @@ Vote pour le top10 d'un mois
 }
 ```
 
-# West Coast Swing
+# WEST COAST SWING
 
 ## GET /happenings/{page}
 
