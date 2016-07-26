@@ -3,7 +3,7 @@
 ## POST /session
 
 ###### Description :
-Retourne les informations d'une session authentifié (profil utilisateur)
+Retourne les informations d'une session authentifiée (profil utilisateur)
 
 ###### Code retour :
 200 si login/pass OK
