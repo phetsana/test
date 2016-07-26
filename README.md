@@ -17,9 +17,9 @@ Retourne les informations d'une session authentifié (profil utilisateur)
         "_id": "4df0a81c73dbcb2350000019",
         "first_name": "Phetsana",
         "last_name" : "Phommarinh",
-        "dj_name" : "";
+        "dj_name" : "",
         "email" : "test@gmail.com",
         "country": "France",
-        "Bio" : ""
+        "Bio" : "",
 }
 ```
